@@ -12,3 +12,4 @@ Devices can be controlled without the central hub or app needing to understand t
 Your challenge is to apply a design pattern that provides a flexible and scalable way to control a variety of smart home devices, ensuring that new devices can be added without disrupting the existing system's functionality.
 
 # UML CLASS DIAGRAM
+![INES_CommandPattern](https://github.com/SamanthaPaulineInes/commandPattern_INES/assets/142489430/ed33817b-fd3e-4ec9-ab4a-a5dee054d4b6)
